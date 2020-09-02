@@ -1,0 +1,130 @@
+.page{
+	width: 70%;
+	height: 2780px;
+	background: gray;
+	margin: 0 auto;
+}
+.page .maine{
+	width: 90%;
+	height: 100%;
+	background: white;
+	margin: 0 auto;
+}
+.maine .tieude{
+	width: 100%;
+	height: 100px;
+/*	background: red;*/
+}
+.tieude .ct{
+	width: 20%;
+	height: 100%;
+	/*background: white;*/
+	float: left;
+}
+.tieude .home{
+	width: 10%;
+	height: 100%;
+/*	background: pink;*/
+	float: left;
+	margin-left: 10px;
+}
+option{
+	 cursor: pointer;
+}
+.maine .wellcome{
+  width: 100%;
+  height: 300px;
+   float: left;
+}
+.maine .tieude-2{
+	width: 100%;
+	height: 300px;
+	background: white;
+	float: left;
+}
+.tieude-2 .our{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.our .hinh{
+	width: 100%;
+	height: 40%;
+	float: left;
+}
+.our .chu{
+	width: 100%;
+	height: 60%;
+	float: left;
+}
+.maine .tieude-3{
+	width: 100%;
+	height: 300px;
+	background: pink;
+	float: left;
+	margin-top: 60px;
+}
+.tieude-3 .doan{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.maine .tieude-4{
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+.tieude-4 .HAPPY{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.maine .tieude-5{
+	width: 100%;
+	height: 450px;
+	float: left;
+	margin-top: 70px;
+}
+.tieude-5 .che{
+	width: 100%;
+	height: 100%;
+    float: left;
+}
+.che .re{
+	width: 22%;
+	height: 80%;
+	background: white;
+	float: left;
+	margin: 0px 0px 10px 23px;
+	display: block;
+}
+.re .hinh{
+	width: 100%;
+	height: 60%;
+}
+.re .chu{
+	width: 100%;
+	height: 40%;
+}
+.maine .tieude-6{
+	width: 100%;
+	height: 400px;
+	background: white;
+	float: left;
+}
+.tieude-6 .hinh{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.maine .tieude-7{
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+.tieude-7 .chu{
+	width: 33%;
+	height: 100%;
+	margin: 1px;
+	float: left;
+}
